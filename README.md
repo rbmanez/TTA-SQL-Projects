@@ -3,6 +3,7 @@ Practice projects from The Tech Academy's SQL course.
 
 ## SQL Library Management System
 
+#### Project Requirements
 USING MS SQL SERVER 2014 EXPRESS, CREATE A DATABASE AND SCHEMA AS DEPICTED IN THE FOLLOWING DIAGRAM:
 ![diagram](pic1.png)
 
