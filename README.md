@@ -1,6 +1,7 @@
 # TTA SQL Project
 
-## SQL Library Management System
+## Library Management System
+This is an SQL project.
 
 #### Project Requirements
 USING MS SQL SERVER 2014 EXPRESS, CREATE A DATABASE AND SCHEMA AS DEPICTED IN THE FOLLOWING DIAGRAM:
