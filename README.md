@@ -4,6 +4,7 @@
 
 #### Project Requirements
 USING MS SQL SERVER 2014 EXPRESS, CREATE A DATABASE AND SCHEMA AS DEPICTED IN THE FOLLOWING DIAGRAM:
+
 ![diagram](pic1.png)
 
 [Click here to see the code.](https://github.com/rbmanez/TTA-SQL-Projects/tree/master/SQLLibraryManagementSystem)
