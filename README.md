@@ -1,11 +1,12 @@
-# TTA SQL Projects
-Practice projects from The Tech Academy's SQL course.
+# TTA SQL Project
 
 ## SQL Library Management System
 
 #### Project Requirements
 USING MS SQL SERVER 2014 EXPRESS, CREATE A DATABASE AND SCHEMA AS DEPICTED IN THE FOLLOWING DIAGRAM:
 ![diagram](pic1.png)
+
+[Click here to see the code.](https://github.com/rbmanez/TTA-SQL-Projects/tree/master/SQLLibraryManagementSystem)
 
 YOU MAY CHOOSE YOUR OWN DATA TO POPULATE YOUR TABLES AS LONG AS YOUR DATABASE ENSURES THAT THE FOLLOWING CONDITIONS ARE TRUE:
 - There is a book called 'The Lost Tribe' found in the 'Sharpstown' branch.
@@ -26,5 +27,3 @@ CREATE STORED PROCEDURES THAT WILL QUERY FOR EACH OF THE FOLLOWING QUESTIONS:
 5. For each library branch, retrieve the branch name and the total number of books loaned out from that branch.
 6. Retrieve the names, addresses, and the number of books checked out for all borrowers who have more than five books checked out.
 7. For each book authored (or co-authored) by "Stephen King", retrieve the title and the number of copies owned by the library branch whose name is "Central".
-
-[Click here to see the code.](https://github.com/rbmanez/TTA-SQL-Projects/tree/master/SQLLibraryManagementSystem)
