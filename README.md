@@ -1,7 +1,7 @@
 # TTA SQL Project
 
 ## Library Management System
-This is an SQL/SQL Server project.
+Created a library management database. (SQL Server)
 
 #### Project Requirements
 USING MS SQL SERVER 2014 EXPRESS, CREATE A DATABASE AND SCHEMA AS DEPICTED IN THE FOLLOWING DIAGRAM:
@@ -10,7 +10,7 @@ USING MS SQL SERVER 2014 EXPRESS, CREATE A DATABASE AND SCHEMA AS DEPICTED IN TH
 
 [Click here to see the code.](https://github.com/rbmanez/TTA-SQL-Projects/tree/master/SQLLibraryManagementSystem)
 
-YOU MAY CHOOSE YOUR OWN DATA TO POPULATE YOUR TABLES AS LONG AS YOUR DATABASE ENSURES THAT THE FOLLOWING CONDITIONS ARE TRUE:
+INSTRUCTIONS - YOU MAY CHOOSE YOUR OWN DATA TO POPULATE YOUR TABLES AS LONG AS YOUR DATABASE ENSURES THAT THE FOLLOWING CONDITIONS ARE TRUE:
 - There is a book called 'The Lost Tribe' found in the 'Sharpstown' branch.
 - There is a library branch called 'Sharpstown' and one called 'Central'.
 - There are at least 20 books in the BOOK table.
@@ -21,7 +21,7 @@ YOU MAY CHOOSE YOUR OWN DATA TO POPULATE YOUR TABLES AS LONG AS YOUR DATABASE EN
 - There are at least 50 loans in the BOOK_LOANS table.
 - There must be at least two books written by 'Stephen King' located at the 'Central' branch.
 
-CREATE STORED PROCEDURES THAT WILL QUERY FOR EACH OF THE FOLLOWING QUESTIONS:
+INSTRUCTIONS - CREATE STORED PROCEDURES THAT WILL QUERY FOR EACH OF THE FOLLOWING QUESTIONS:
 1. How many copies of the book titled "The Lost Tribe" are owned by the library branch whose name is "Sharpstown"?
 2. How many copies of the book titled "The Lost Tribe" are owned by each library branch?
 3. Retrieve the names of all borrowers who do not have any books checked out.
